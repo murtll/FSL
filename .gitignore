@@ -1,0 +1,11 @@
+# not exclude!
+!/src/
+
+#exclude
+/.gradle/
+/.idea/
+/gradle/
+/build/
+local.properties
+gradlew
+gradlew.bat
